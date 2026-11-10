@@ -35,17 +35,3 @@
    npm test
    ```
 
-## Estrutura do projeto
-```text
-automationexercise-cypress/
-├── cypress/
-│   ├── e2e/                # 10 arquivos de teste, um por cenário
-│   └── support/
-│       ├── commands.js     # Comandos reutilizáveis
-│       └── e2e.js          # Inicialização dos comandos
-├── cypress.config.js       # Configurações de E2E e URL base
-├── package.json            # Dependência e scripts
-├── .gitignore
-└── README.md
-```
-
