@@ -1,0 +1,12 @@
+{
+  "name": "automationexercise-cypress-trabalho-final",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Trabalho final de automação com Cypress - Isabella Rocha e Renan Hammerschlag",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "test": "cypress run"
+  },
+  "devDependencies": {"cypress": "^14.5.4"}
+}

@@ -1,0 +1,31 @@
+** Testes e seus objetivos **
+
+03	Login com dados incorretos	
+    - Verificar se o sistema impede o login com e-mail e senha inválidos e apresenta uma mensagem de erro.
+    
+07	Verify Test Cases Page 
+    - Verificar se a página de casos de teste pode ser acessada corretamente pelo menu do site.
+
+08	Verify All Products and Product Detail Page
+    - Verificar se a lista de produtos é exibida e se é possível acessar os detalhes de um produto.
+
+09	Search Product
+    - Verificar se a pesquisa de produtos funciona corretamente e retorna resultados relacionados ao termo pesquisado.
+
+10	Verify Subscription in Home Page
+    - Verificar se o usuário consegue cadastrar um e-mail no campo de inscrição da página inicial e recebe uma mensagem de sucesso.
+
+11	Verify Subscription in Cart Page
+    - Verificar se o campo de inscrição também funciona corretamente na página do carrinho.
+
+18	View Category Products
+    - Verificar se o sistema permite navegar pelas categorias e exibe os produtos correspondentes à categoria selecionada.
+
+19	View & Cart Brand Products
+    - Verificar se o usuário consegue visualizar produtos de diferentes marcas utilizando os filtros disponíveis.
+
+25	Verify Scroll Up using Arrow Button
+    - Verificar se o botão de seta permite retornar ao topo da página após rolar para baixo.
+
+26	Verify Scroll Up without Arrow Button
+    - Verificar se o usuário consegue retornar ao topo da página utilizando a rolagem normal, sem clicar na seta.
